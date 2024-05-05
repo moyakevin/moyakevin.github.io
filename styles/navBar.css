@@ -22,6 +22,7 @@
 }
 
 .navigation ul li {
+    flex-grow: 2;
     padding: 3% 11%;
 }
 
